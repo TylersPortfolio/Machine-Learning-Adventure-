@@ -8,4 +8,4 @@ Taking the beginning steps to create my own basic AI to use for basic everyday i
 
 Thank you for taking the time read and look at my code. If you want to continue to help me grow you are more than welcome to help.
 
-Furthermore this repisortory is going to set up as small individual lessons and projects that I complete throughout years of learning.
+Furthermore this repisortory is set up as small individual lessons and projects that I complete throughout years of learning.
