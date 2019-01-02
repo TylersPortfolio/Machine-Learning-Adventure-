@@ -1,7 +1,7 @@
 # Machine-Learning-Adventure-
 My Journey into machine learning and Artifical Intelligence!
 
-Machine Learning Adventure inteds to be a personal adventure while recording accomplishments through projects.
+Machine Learning Adventure intends to be a personal adventure while recording accomplishments through projects.
 It is also for business and academic motivation.
 I am a beginner in this particular field of study.
 Taking the beginning steps to create my own basic AI to use for basic everyday internet needs.
