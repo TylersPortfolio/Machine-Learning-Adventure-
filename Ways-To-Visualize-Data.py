@@ -19,7 +19,7 @@ dataset = pandas.read_csv(url, names=names)
 
 #------------------------------------------#
 
-# Discriptions of Datase
+# Discriptions of Dataset
 #print(dataset.describe())
 
 #------------------------------------------#
