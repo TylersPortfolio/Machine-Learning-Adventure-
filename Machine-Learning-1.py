@@ -10,3 +10,6 @@ shirts = [2, 2, 1, 1]
 clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features_of_shirts, shirts)
 print(clf.predict([[44, 2]]))
+
+
+# Output = 2
